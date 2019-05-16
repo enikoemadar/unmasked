@@ -1,0 +1,48 @@
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: 400px;
+    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    line-height: 1;
+}
+body {
+    background-color: #000000;
+}
+
+nav {
+    color: #000000;
+    font-family: 'Bebas Neue', 'Exo', sans-serif;
+    font-size: 20;
+}
+h3 {
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', 'Exo', sans-serif;
+    font-size: 17;
+    position: center;
+    text-align: center;
+    padding-top: 3%;
+}
+h4 {
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', 'Exo', sans-serif;
+    font-size: 13;
+    position: center;
+    text-align: center;
+    padding-top: 3%;
+}
+h2 {
+    color: #ffffff;
+    font-family: 'Bebas Neue', 'Exo', sans-serif;
+    font-size: 3.4vh;
+    position: center;
+    text-align: center;
+    padding-top: 3%;
+
+}
+.navbar-brand {
+    color: #000000;
+    font-family: 'Bebas Neue', 'Exo', sans-serif;
+    font-size: 25;
+}
+
